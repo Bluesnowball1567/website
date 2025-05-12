@@ -6,6 +6,13 @@
     <description>Latest posts from my blog.</description>
     <language>en-us</language>
     <item>
+      <title>Test1</title>
+      <link>https://www.myblog.com/test1</link>
+      <description>Test1</description>
+      <pubDate>2025-05-12T08:20:00Z</pubDate>
+      <guid isPermaLink="false">https://www.myblog.com/test1</guid>
+    </item>
+    <item>
       <title>椰子糖</title>
       <link>https://viager123.blogspot.com/2023/08/blog-post.html</link>
       <description>Share thoughts.</description>
