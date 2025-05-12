@@ -19,5 +19,12 @@
       <pubDate>2024-10-27T12:00:00Z</pubDate>
       <guid isPermaLink="false">http://www.myblog.com/second-post</guid>
     </item>
+    <item>
+      <title>Third Post</title>
+      <link>http://www.myblog.com/second-post</link>
+      <description>Another blog post.</description>
+      <pubDate>Mon, 12 May 2025 08:00:00 GMT</pubDate>
+      <guid>http://www.myblog.com/second-post</guid>
+    </item>
   </channel>
 </rss>
