@@ -7,6 +7,13 @@
     <description>Latest posts from my blog.</description>
     <language>en-us</language>
     <item>
+      <title>Test3</title>
+      <link>https://viager123.blogspot.com/test3</link>
+      <description>test3</description>
+      <pubDate>Mon, 12 May 2025 20:27:00 GMT</pubDate>
+      <guid isPermaLink="false">https://viager123.blogspot.com/test3</guid>
+    </item>
+    <item>
       <title>Test2</title>
       <link>https://viager123.blogspot.com/test2</link>
       <description>Test2</description>
